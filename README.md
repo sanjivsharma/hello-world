@@ -1,3 +1,3 @@
 # hello-world
 
-just another repository
+just following instructions: my name is Sanjiv Sharma
